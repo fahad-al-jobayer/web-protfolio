@@ -1,0 +1,22 @@
+body{
+    font-family: 'Tiro Kannada', serif;
+}
+h1{
+    font-size: 60px;
+}
+.fahad{
+    color: rgb(1, 214, 251);
+}
+.half{
+    width: 40%;
+    float: left;
+    
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half img{
+    width: 100%;
+}
+h1{
+    margin-left: 15%;
+}
